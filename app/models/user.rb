@@ -18,7 +18,7 @@ class User < ActiveRecord::Base
   end
 
   # Returns a random token.
-  def User.new_token
+  def self.new_token
     SecureRandom.urlsafe_base64
   end
 
