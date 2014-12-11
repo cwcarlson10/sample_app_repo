@@ -1,13 +1,5 @@
 Rails.application.routes.draw do
 
-<<<<<<< HEAD
-  get 'sessions/new'
-=======
-  get 'static_pages/contact'
-
-  get 'static_pages/help'
->>>>>>> static_pages_exercises
-
   root                'static_pages#home'
   get    'help'    => 'static_pages#help'
   get    'about'   => 'static_pages#about'

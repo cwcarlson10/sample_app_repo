@@ -10,9 +10,4 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
-<<<<<<< HEAD
-  
-=======
-
->>>>>>> static_pages_exercises
 end
