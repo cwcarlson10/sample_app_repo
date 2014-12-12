@@ -5,6 +5,9 @@ source 'https://rubygems.org'
 gem 'rails'
 
 gem 'bcrypt',               '>=3.1.7'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 # Use postgresql as the database for Active Record
 gem 'bootstrap-sass',       '>=3.2.0.0'
 
