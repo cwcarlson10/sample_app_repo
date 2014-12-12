@@ -1,4 +1,4 @@
 require 'test_helper'
 
-class AcountActivationsHelperTest < ActionView::TestCase
+class AccountActivationsHelperTest < ActionView::TestCase
 end

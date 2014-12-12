@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class AcountActivationsControllerTest < ActionController::TestCase
+class AccountActivationsControllerTest < ActionController::TestCase
   # test "the truth" do
   #   assert true
   # end
